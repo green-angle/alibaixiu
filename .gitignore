@@ -1,0 +1,7 @@
+model
+node_modules
+routes
+app.js
+global.js
+package-lock.json
+package.json
